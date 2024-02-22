@@ -23,7 +23,7 @@ public class Algorithm1 {
     }
 
     public static void main(String[] args) {
-        // Make an array that creates a new array with elements 1 to 10000
+        // Array with elements 1 to X
         int[] arr = new int[10000];
         for (int i = 0; i < arr.length; i++) {
             arr[i] = i + 1;
